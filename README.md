@@ -12,6 +12,6 @@
 <br/>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vandrion&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandrion&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="langs" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vandrion&theme=github_dark" alt="stats" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vandrion&theme=github_dark" alt="langs" />
 </p>
